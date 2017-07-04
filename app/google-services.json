@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "689246243184",
+    "firebase_url": "https://kalyanavaibhavam-777fa.firebaseio.com",
+    "project_id": "kalyanavaibhavam-777fa",
+    "storage_bucket": "kalyanavaibhavam-777fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689246243184:android:0918b187b3f7e192",
+        "android_client_info": {
+          "package_name": "com.example.admin.kalyanavaibhavam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689246243184-1rl4ijou9r4vctm9akfneld8mnrkufnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.kalyanavaibhavam",
+            "certificate_hash": "70d3060a1dad0ccf4cab499f0aa3335f32ba9894"
+          }
+        },
+        {
+          "client_id": "689246243184-v1eeefk3fgbkbe1f3fp4k2l534b8ecgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDbYrgyQsDmz5Q0KZfnChgkxdOlgpL5Mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689246243184-v1eeefk3fgbkbe1f3fp4k2l534b8ecgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
